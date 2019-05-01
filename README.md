@@ -14,7 +14,7 @@ Simple todo list inspired by a YouTube tutorial with some modifications.
 
 ## What I Learned
 
-This was great fun! After I got the basic version working I noticed that the notes were not persisted if you refreshed the browser.
+This was great fun! After I got the basic version working I noticed that the notes were not persisted if you refreshed the browser. I decided to use local storage for a simple solution. In doing so I learned about:
 
 - Updating Local Storage from State
 - React life cycle components
